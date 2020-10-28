@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1603815988 source:d:\_prototypes\c_learning\c_learning\main.c
+	<stdio.h>
+	<stdlib.h>
+	"common.h"
+	"color.h"
+	"vector.h"
+	"line.h"
+	"grid.h"
+	"land.h"
+	"world.h"
+	"control.h"
+
+1603726622 d:\_prototypes\c_learning\c_learning\vector.h
+
+1603726710 d:\_prototypes\c_learning\c_learning\line.h
+	"vector.h"
+
+1603720488 source:d:\_prototypes\c_learning\c_learning\line.c
+	"line.h"
+
+1603726622 source:d:\_prototypes\c_learning\c_learning\vector.c
+	"vector.h"
+
+1603726618 d:\_prototypes\c_learning\c_learning\grid.h
+	"vector.h"
+
+1603727198 d:\_prototypes\c_learning\c_learning\common.h
+
+1603727234 source:d:\_prototypes\c_learning\c_learning\common.c
+	"common.h"
+
+1603815338 source:d:\_prototypes\c_learning\c_learning\land.c
+	"land.h"
+
+1603815240 d:\_prototypes\c_learning\c_learning\land.h
+	"color.h"
+	"vector.h"
+
+1603767722 d:\_prototypes\c_learning\c_learning\world.h
+	"land.h"
+
+1603767460 source:d:\_prototypes\c_learning\c_learning\world.c
+	"world.h"
+
+1603815196 d:\_prototypes\c_learning\c_learning\color.h
+
+1603815188 source:d:\_prototypes\c_learning\c_learning\color.c
+	"color.h"
+
+1603815908 source:d:\_prototypes\c_learning\c_learning\control.c
+	"control.h"
+
+1603816042 d:\_prototypes\c_learning\c_learning\control.h
+	"vector.h"
+	"land.h"
+
