@@ -6,19 +6,19 @@
 //vector 2
 typedef struct vector2
 {
-    double x, y;
+    float x, y;
 } vec2;
 
 //vector3
 typedef struct vector3
 {
-    double x, y, z;
+    float x, y, z;
 } vec3;
 
 //vector 4
 typedef struct vector4
 {
-    double x, y, z, w;
+    float x, y, z, w;
 } vec4;
 
 

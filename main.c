@@ -52,6 +52,11 @@ int main()
         printf("Land Node #%d generated\n", i);
     }
 
+	for (size_t i = 0; i < LAND_NODES; i++)
+	{
+		printf("Landnode");
+	}
+
     /*
     int age = 23;
     int newAge = 59;
